@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi, I'm Oscar 👋
+
+A passionate web developer, that's always on the hunt to learn something new! 🎉🚀
+
+[![Oscar Elf's GitHub stats](https://github-readme-stats.vercel.app/api?username=effeboii&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=effeboii)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Effeboii/effeboii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
