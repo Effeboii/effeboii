@@ -25,5 +25,8 @@ I'm Oscar, front-end web developer from Sweden <img src="https://cdn-icons-png.f
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
+### Let's connect
+I'm always on the lookout for new challenges and opporttunities to contribute to open source projects. If you're interested in collaberating or if my skills alligns with your needs, feel free to reach out.
+
 <!-- [![Oscar Elf's GitHub stats](https://github-readme-stats.vercel.app/api?username=effeboii&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=effeboii)](https://github.com/anuraghazra/github-readme-stats) -->
